@@ -3,4 +3,4 @@
  <h2 align="center">Statistics</h2>
 </p>
 
-[![svedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=svedev0&theme=nightowl&bg_color=00000000&hide_border=true&hide_rank=true&include_all_commits=true)](#)
+[![svedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=svedev0&theme=nightowl&bg_color=00000000&hide_border=true&hide_rank=true&include_all_commits=true&show_icons=true)](#)
