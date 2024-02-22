@@ -2,3 +2,5 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Statistics</h2>
 </p>
+
+[![svedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=svedev0)](https://github.com/anuraghazra/github-readme-stats)
